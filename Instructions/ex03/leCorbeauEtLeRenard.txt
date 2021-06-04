@@ -1,0 +1,3 @@
+etape 1 :  's/Corbeau/chat/' leCorbeauEtLeRenard.txt
+
+etape 2 : sed '/honteux/ s/Corbeau/Lolita/' leCorbeauEtLeRenard.txt
